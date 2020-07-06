@@ -7,3 +7,7 @@ def countdown(input)
   end
   return "HAPPY NEW YEAR!"
 end
+
+def countdown()
+
+end
